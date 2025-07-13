@@ -13,7 +13,9 @@
 - Ask me about TypeScript, React, Node.js, or anything full stack—I'd love to chat tech!
 
 ## Visitor count
-![Visitor Count](https://count.getloli.com/get/@fazal-bhinder?theme=rule34)
+![Visitor Count](https://count.getloli.com/@fazal-bhinder?name=fazal-bhinder&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
+
 
 
 
