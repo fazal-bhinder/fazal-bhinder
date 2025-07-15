@@ -15,7 +15,5 @@
 ## Visitor count
 ![Visitor Count](https://count.getloli.com/@fazal-bhinder?name=fazal-bhinder&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
-
-
-
-
+## GitHub Stats: 
+![](https://nirzak-streak-stats.vercel.app/?user=fazal-bhinder&theme=dark&hide_border=false)
