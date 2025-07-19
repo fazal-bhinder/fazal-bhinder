@@ -7,7 +7,7 @@
 
 ## About me
 
-- I'm a 23-year-old computer science student full stack developer from India.
+- I'm a 23-year-old computer science student and full stack developer from India.
 - Explore my repositories or check out my pinned ones to see my latest work.
 - I spend most of my time in building something or learning some new technologie.
 - Ask me about TypeScript, React, Node.js, or anything full stack—I'd love to chat tech!
