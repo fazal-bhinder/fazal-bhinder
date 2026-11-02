@@ -2,7 +2,7 @@
   <img height="110" width="110" src="https://i.pinimg.com/736x/c0/39/77/c03977d2ff1e4ccc04325c5b142a0393.jpg"  />
 </div>
 
-# Hi there, I'm Fazal Singh!
+# Hi there, I'm Fazal Singh Bhinder!
 **Software Engineer**
 
 ## About me
